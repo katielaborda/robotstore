@@ -1,0 +1,113 @@
+#robologo {
+  width: 7.7em;
+  height: 7.7em;
+  float: left;
+  vertical-align: middle;
+}
+
+#headername {
+  font-family: bookman;
+  color: #bc1a1a;
+  font-size: 4.8em;
+  font-weight: bold;
+}
+
+.headerlogo {
+  text-decoration: none !important;
+}
+
+.searchbox {
+  display: inline;
+  float: right;
+  margin-top: 50px;
+}
+
+header {
+  background-color: #a7afae;
+  text-align: center;
+}
+
+.navBar {
+  display: inline-block;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 4em;
+  margin-right: 4em;
+}
+
+/*#lorem {
+  column-count: 2;
+}*/
+
+.robos {
+  font-family: 'courier new';
+  font-size: 1em;
+  color: #4f4f4f;
+}
+
+legend {
+  font-family:'arial black';
+  font-size: 2em;
+}
+
+.computers {
+  font-family: helvetica, sans-serif;
+  font-size: .8em;
+}
+
+#mrRobot {
+  font-weight: bold;
+  font-size: 1.6em;
+  font-family: 'Lucida Sans Unicode';
+}
+
+#goal {
+  font-style: italic;
+}
+
+.info {
+  font-family: 'roboto mono'
+}
+
+footer {
+  background-color: gray;
+  color:white;
+  text-align:center;
+}
+
+footer p{
+  display: inline-block;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 5em;
+  margin-right: 5em;
+}
+
+.contactInfo {
+  font-family: tahoma;
+  font size: 1em;
+}
+
+#robotPic {
+  align-right: 0px;
+}
+
+li {
+  list-style-type: none;
+}
+
+#header2 {
+  font-size: 2em;
+}
+
+.Highlight {
+  background-color: #fffaa0;
+}
+
+.hidden{
+  display:none;
+}
+
+#welcomeimage{
+  text-align: center;
+}
